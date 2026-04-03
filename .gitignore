@@ -1,0 +1,19 @@
+# Obsidian cache & workspace state (machine-specific, no need to back up)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Trash folder
+.trash/
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# iCloud placeholders
+*.icloud
+
+# Temporary files
+*.tmp
+*.temp

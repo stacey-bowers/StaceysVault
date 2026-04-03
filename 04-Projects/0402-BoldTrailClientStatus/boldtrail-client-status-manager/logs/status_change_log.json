@@ -1,0 +1,26 @@
+[
+  {
+    "migration_id": "newlead-to-prospect-2026-03-27",
+    "date": "2026-03-27",
+    "executed_by": "Claude automation (Stacey Bowers)",
+    "source_status": { "code": 0, "label": "New Lead" },
+    "target_status": { "code": 7, "label": "Prospect" },
+    "total_contacts": 149,
+    "test_contact": { "id": 134138, "name": "David Straub" },
+    "batch_results": {
+      "status_changes": { "attempted": 149, "success": 149, "failed": 0 },
+      "tags_added": { "tag": "status-migrated-2026-03-27", "attempted": 149, "success": 149, "failed": 0 },
+      "notes_added": { "attempted": 149, "success": 149, "failed": 0 }
+    },
+    "verification": {
+      "pre_migration_new_lead_count": 149,
+      "post_migration_new_lead_count": 0,
+      "pre_migration_prospect_count": 85,
+      "post_migration_prospect_count": 234
+    },
+    "campaign_impact": {
+      "campaigns_disrupted": 0,
+      "finding": "Smart Campaigns operate at system level via status matching. No per-contact enrollment exists. B-E New Leads 2026 will stop matching migrated contacts. No active SYSTEM Prospect campaigns to auto-enroll."
+    }
+  }
+]
