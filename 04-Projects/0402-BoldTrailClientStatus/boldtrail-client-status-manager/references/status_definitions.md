@@ -1,3 +1,10 @@
+---
+tags: [reference, real-estate, pipeline]
+created: 2026-03-27
+type: reference
+status: active
+---
+
 # BoldTrail Status Definitions — Domain Realty Group
 
 ## API Status Code Mapping (Verified 2026-03-27)

@@ -24,6 +24,9 @@ status: active
 
 | Date | Decision | Rationale | Source |
 | ---- | -------- | --------- | ------ |
+| 2026-04-03 | Skill asset files in project folders (SKILL.md, campaign_registry.md, status_definitions.md, etc.) use vault-standard frontmatter (`tags`, `created`, `type: reference`, `status`) | Keeps them visible in Obsidian queries and the health checker; minimal overhead; doesn't interfere with their skill-specific fields | [[20260403_VaultHealthReport]] |
+| 2026-04-03 | Lead Pipeline is a formal project in `04-Projects/0403-LeadPipeline/` | Elevates pipeline work from a loose business folder stub to a tracked project with scope, progress log, and links — consistent with how enrichment and vault setup are managed | [[20260403_LeadPipeline_ProjectKickoff]] |
+| 2026-04-03 | Market Research community overviews live in `02-Real-Estate/Market-Research/Communities/` with links from Home.md | First of a series of community knowledge articles; Home.md Market Research section will grow as more communities are documented | [[20260403_IonashoresCommunityOverview]] |
 | 2026-03-22 | Use numbered folder prefixes (00–90) for vault structure | Keeps sidebar sorted logically regardless of Obsidian sort settings — no fighting alphabetical order | [[20260322_VaultSetup]] |
 | 2026-03-22 | Vault lives on iCloud (`~/Library/Mobile Documents/`) | Automatic sync across all Apple devices without a third-party sync service | [[20260322_VaultSetup]] |
 | 2026-03-22 | All new captures go to `00-Inbox/` first, then get processed and filed | Separates capture from organization — never lose a thought, never clutter a folder | [[20260322_VaultSetup]] |
@@ -32,6 +35,10 @@ status: active
 | 2026-03-22 | Archive to `90-Archive/` instead of deleting notes | Nothing is ever truly gone — protects against accidental loss and preserves history | [[20260322_VaultSetup]] |
 | 2026-03-22 | Daily notes use `YYYYMMDD.md` format, project notes use `YYYYMMDD_NoteTitle.md` | Consistent date-first naming makes everything sortable by time | [[20260322_VaultSetup]] |
 | 2026-03-22 | Decision Log lives at vault root (same level as Active Work Ledger) | It's a vault-wide reference doc, not tied to any single project | — |
+| 2026-04-03 | Use GitHub for vault version history (private repo: `stacey-bowers/StaceysVault`) | iCloud protects against device loss but has no rollback; GitHub gives complete undo history if a skill goes haywire or notes get overwritten | [[20260322_VaultSetup]] |
+| 2026-04-03 | Use Obsidian Git plugin (v2.38.0) for auto-commits — not manual git | Plugin integrates directly into Obsidian; auto commit-and-sync every 120 min + on file edit stop; no Terminal required after initial setup | [[20260322_VaultSetup]] |
+| 2026-04-03 | PAT (Personal Access Token) stored in macOS Keychain, not SSH | HTTPS + PAT is simpler to configure for a solo user on one Mac; Keychain stores it so future commits are fully silent | [[20260322_VaultSetup]] |
+| 2026-04-03 | GitHub account uses Domain Realty email (`stacey@domainrealtygroup.com`), username `stacey-bowers` | Account already existed under that email; using domain email keeps business tools centralized | [[20260322_VaultSetup]] |
 
 ## Real Estate Decisions
 

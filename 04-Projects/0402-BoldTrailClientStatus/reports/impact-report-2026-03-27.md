@@ -1,3 +1,10 @@
+---
+tags: [reference, real-estate, pipeline]
+created: 2026-03-27
+type: research
+status: complete
+---
+
 # Status Migration Impact Report
 ## New Lead (0) → Prospect (7)
 **Date:** 2026-03-27

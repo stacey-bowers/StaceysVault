@@ -98,6 +98,7 @@ All BoldTrail API calls must go through Chrome JavaScript execution (`mcp__Claud
 - [[Coleman_Scott]] — Vault-sync test #3 (thin FB lead)
 - [[20260323_VaultSyncSkill_DesignBrief]] — Vault-sync skill design brief
 - [[20260324_Session_VaultSync_Build]] — Session notes for vault-sync build and testing
+- [[20260327_StatusMigrationImpactReport]] — Status migration impact report (New Lead → Prospect, 149 contacts)
 - [[Active Work Ledger]] — Vault work tracker
 - [[Decision Log]] — Architecture and template decisions
 - BoldTrail API Docs: https://apidocs.kvcore.com/

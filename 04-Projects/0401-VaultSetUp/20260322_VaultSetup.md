@@ -27,6 +27,8 @@ priority: "high"
 - [x] Created resource checklists: Buyer Transaction Checklist, Listing Checklist
 - [x] Configured .obsidian settings
 - [x] Set up CLAUDE.md for AI context
+- [x] **GitHub + Git version control (Phase 10)** — Initialized git repo in vault, created private GitHub repo (`stacey-bowers/StaceysVault`), pushed full vault (144 files), stored PAT in macOS Keychain
+- [x] **Obsidian Git plugin (Phase 8/10)** — Installed and enabled community plugin v2.38.0; configured auto commit-and-sync every 120 minutes + after stopping file edits; push on every commit; verified end-to-end pipeline working
 
 ## What's Next
 - [ ] Populate Active Work Ledger with current deals, listings, and clients
@@ -35,13 +37,14 @@ priority: "high"
 - [ ] Add vendor/contact notes for key relationships (lender, title company, inspector, etc.)
 - [ ] Set up SOPs for repeatable workflows (listing launch, buyer onboarding, closing process)
 - [ ] Build out Lead Pipeline with current prospects
-- [ ] Create first daily note and start the daily note habit
 - [ ] Test inbox processing workflow (drop notes in 00-Inbox → process → file)
+- [ ] Configure Obsidian Git to remember origin/main automatically (runs silently after first auto-commit)
 
 ## Progress Log
 | Date | Update |
 | ---- | ------ |
 | 2026-03-22 | Vault structure fully built — all folders, templates, dashboards, and checklists created. Migrated from VaultSetUp subfolder to StaceysVault root. |
+| 2026-04-03 | **GitHub + Obsidian Git fully operational.** Git repo initialized, .gitignore created, 144 files pushed to private GitHub repo (`stacey-bowers/StaceysVault`). PAT stored in macOS Keychain. Obsidian Git v2.38.0 installed and configured — auto commit-and-sync every 120 min + on file edit stop. Verified end-to-end: 4 files committed and pushed from within Obsidian. Vault now has full version history and rollback capability. |
 
 ## Resources & Links
 - [[Home]]

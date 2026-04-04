@@ -14,6 +14,7 @@ status: active
 | ------- | ------ | -------- | --- |
 | [[20260322_VaultSetup|Vault Setup]] | Active — structure complete, populating data | High | Ongoing |
 | [[20260323_BoldTrailEnrichment_ProjectSummary|BoldTrail Enrichment]] | Active — skill customized, first enrichment complete, vault-sync skill pending | High | Ongoing |
+| [[20260403_LeadPipeline_ProjectKickoff|Lead Pipeline]] | Initiating — scope definition in progress | High | Ongoing |
 
 ## Paused / On Hold
 -

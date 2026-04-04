@@ -139,6 +139,9 @@ last_synced: "2026-03-26"
 - [ ] Find out if someone is attending FGCU — may explain the university proximity requirement
 - [ ] Confirm whether she needs Canadian-friendly financing guidance (foreign national loans)
 
+## Related Documents
+- [[20260326_Brief_StLouis_Sacha|Client Brief — Sacha St. Louis]]
+
 ## Notes
 - Lead source: Google Ads (ADWORDS)
 - BoldTrail contact ID: 99303 | Rating: BTHot tag

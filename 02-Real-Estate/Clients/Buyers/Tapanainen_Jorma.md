@@ -136,6 +136,9 @@ last_synced: "2026-03-26"
 - [ ] Find out if he wants to be near Coconut Shores specifically or open to broader Estero/Bonita area
 - [ ] High-value prospect: executive (President title), international buyer
 
+## Related Documents
+- [[20260326_Brief_Tapanainen_Jorma|Client Brief — Jorma Tapanainen]]
+
 ## Notes
 - Lead source: Google Ads (ADWORDS) | Registered: 2023-07-07
 - BoldTrail contact ID: 101910 | Rating: 0 stars (unrated)

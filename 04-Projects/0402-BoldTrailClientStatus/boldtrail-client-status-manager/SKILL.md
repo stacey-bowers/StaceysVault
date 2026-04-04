@@ -1,4 +1,8 @@
 ---
+tags: [reference, real-estate, pipeline]
+created: 2026-03-24
+type: reference
+status: active
 name: boldtrail-client-status-manager
 description: >
   Proactively manages and updates contact statuses in BoldTrail CRM (kvCORE).

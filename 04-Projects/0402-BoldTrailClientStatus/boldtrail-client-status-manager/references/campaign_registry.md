@@ -1,3 +1,10 @@
+---
+tags: [reference, real-estate, pipeline]
+created: 2026-03-27
+type: reference
+status: active
+---
+
 # BoldTrail Campaign Registry — Domain Realty Group
 
 ## Purpose

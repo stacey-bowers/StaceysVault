@@ -1,3 +1,10 @@
+---
+tags: [reference, archived]
+created: 2026-03-27
+type: research
+status: archived
+---
+
 # Status Migration Impact Report
 ## New Lead (0) → Prospect (7)
 **Date:** 2026-03-27

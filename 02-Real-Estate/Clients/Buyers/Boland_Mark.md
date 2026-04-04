@@ -146,6 +146,9 @@ last_synced: "2026-03-26"
 - [ ] Confirm timeline — is he actively looking this season or planning ahead?
 - [ ] His TCPA re-consent + recent site visit is a strong re-engagement signal — move quickly
 
+## Related Documents
+- [[20260326_Brief_Boland_Mark|Client Brief — Mark Boland]]
+
 ## Notes
 - Lead source: REFINDLY (referral network) | Registered: 2020-12-10 (5+ years in pipeline)
 - BoldTrail contact ID: 96498 | Rating: 0 stars | Tags: BTHot, 100-300 (old price bucket — likely stale)

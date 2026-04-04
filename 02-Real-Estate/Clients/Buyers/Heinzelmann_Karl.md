@@ -131,6 +131,9 @@ boldtrail_id: 213119
 - [ ] Ask about budget range for purchase vs. rental
 - [ ] Highland Woods inventory check for March 2027 seasonal rentals
 
+## Related Documents
+- [[20260324_Brief_Heinzelmann_Karl|Client Brief — Karl Heinzelmann]]
+
 ## Notes
 - Lead source: Direct Website, registered 2026-03-14
 - BoldTrail contact ID: 213119

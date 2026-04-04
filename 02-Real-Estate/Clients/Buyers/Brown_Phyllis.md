@@ -173,6 +173,9 @@ last_synced: "2026-03-24"
 - [ ] Snowbird assessment — Indiana homeowner since 2006, age 89, searching SW FL = classic snowbird pattern
 - [ ] Get spouse/partner info — the Spatz relatives suggest family connections worth understanding
 
+## Related Documents
+- [[20260324_Brief_Brown_Phyllis|Client Brief — Phyllis Brown]]
+
 ## Notes
 - Lead source: Google Ads (ADWORDS), originally registered 2024-02-26, re-imported to BoldTrail 2025-01-14
 - BoldTrail contact ID: 141870

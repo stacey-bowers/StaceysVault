@@ -27,6 +27,9 @@ status: active
 - [[Showings]]
 - [[Vendors and Contacts|Vendors & Contacts]]
 
+## Market Research
+- [[20260403_IonashoresCommunityOverview|Ionashores Community Overview]]
+
 ## Business
 - [[Lead Pipeline]]
 - [[Goals and KPIs|Goals & KPIs]]
