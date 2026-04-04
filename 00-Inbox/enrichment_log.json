@@ -1,0 +1,60 @@
+[
+  {
+    "run_date": "2026-04-04",
+    "run_time": "19:27:37",
+    "mode": "free",
+    "contact_id": 152289,
+    "contact_name": "Mary Swigert",
+    "email": "msswigert@yahoo.com",
+    "phone_primary": "(217) 454-2573",
+    "area_code_classification": "Illinois — snowbird-potential",
+    "sources": {
+      "voter_records": {
+        "status": "match",
+        "full_name": "Mary Emory Swigert",
+        "age": 64,
+        "address": "1106 Sioux St Jupiter FL 33458",
+        "party": "Republican",
+        "voter_status": "Active",
+        "registered": "04/25/1996",
+        "related_household": ["Wayne Swigert (34 M, Jupiter FL)", "Danielle Swigert (32 F, Jupiter FL)"]
+      },
+      "truepeoplesearch": { "status": "blocked", "reason": "CAPTCHA" },
+      "thatsthem": { "status": "blocked", "reason": "CAPTCHA" },
+      "fastpeoplesearch": { "status": "blocked", "reason": "Cloudflare challenge" },
+      "peekyou": { "status": "blocked", "reason": "Bot redirect to homepage" },
+      "property_appraiser": {
+        "status": "match",
+        "county": "Palm Beach",
+        "parcel": "30-42-41-02-03-008-0130",
+        "homesteaded": true,
+        "soh_base_year": 2004,
+        "beds": 3,
+        "baths": 2,
+        "sqft_under_air": 1232,
+        "sqft_total": 1540,
+        "year_built": 1978,
+        "pool": "In-Ground (2001)",
+        "waterfront": true,
+        "purchase_date": "10/01/1997",
+        "purchase_price": 90000,
+        "market_value_2025": 500795,
+        "assessed_value_2025": 226287,
+        "taxable_value_2025": 170565,
+        "annual_taxes_2025": 3591
+      }
+    },
+    "fields_written": {
+      "primary_address": "1106 Sioux St",
+      "primary_city": "Jupiter",
+      "primary_state": "FL",
+      "primary_zip": "33458",
+      "second_email": "mswigert@bellsouth.net"
+    },
+    "phones_overflow": [],
+    "emails_overflow": [],
+    "tags_added": ["voter-record-match", "snowbird-potential", "enriched-free", "enriched-2026-04-04"],
+    "note_action_id": 7737521,
+    "note_written": true
+  }
+]
